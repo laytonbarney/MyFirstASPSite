@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{B34F1430-1B6C-4BA2-8B1B-4396FC100EB0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="Controllers/BlahController.cs" Line="1" Column="1" />
+      <File FileName="Models/FanMailModel.cs" />
+      <File FileName="Properties/launchSettings.json" />
+      <File FileName="Views/Blah/FanMail.cshtml" />
+      <File FileName="Views/Blah/Index.cshtml" />
+      <File FileName="Views/_ViewImports.cshtml" />
+      <File FileName="Views/_ViewStart.cshtml" />
+      <File FileName="Program.cs" />
+      <File FileName="Startup.cs" Line="1" Column="1" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="15" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyFirstASPNETWebApp" expanded="True">
+            <Node name="MyFirstASPNETWebApp" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Blah" expanded="True" />
+                <Node name="Shared" expanded="True">
+                  <Node name="_Layout.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MyFirstASPNETWebApp PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

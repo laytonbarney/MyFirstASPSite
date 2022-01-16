@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/layton/Documents/S/School/Current Semester/413/MyFirstASPNETWebApp/MyFirstASPNETWebApp.csproj": {}
+    "/Users/layton/Documents/G/Github/MyFirstASPSite/MyFirstASPNETWebApp.csproj": {}
   },
   "projects": {
-    "/Users/layton/Documents/S/School/Current Semester/413/MyFirstASPNETWebApp/MyFirstASPNETWebApp.csproj": {
+    "/Users/layton/Documents/G/Github/MyFirstASPSite/MyFirstASPNETWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/layton/Documents/S/School/Current Semester/413/MyFirstASPNETWebApp/MyFirstASPNETWebApp.csproj",
+        "projectUniqueName": "/Users/layton/Documents/G/Github/MyFirstASPSite/MyFirstASPNETWebApp.csproj",
         "projectName": "MyFirstASPNETWebApp",
-        "projectPath": "/Users/layton/Documents/S/School/Current Semester/413/MyFirstASPNETWebApp/MyFirstASPNETWebApp.csproj",
+        "projectPath": "/Users/layton/Documents/G/Github/MyFirstASPSite/MyFirstASPNETWebApp.csproj",
         "packagesPath": "/Users/layton/.nuget/packages/",
-        "outputPath": "/Users/layton/Documents/S/School/Current Semester/413/MyFirstASPNETWebApp/obj/",
+        "outputPath": "/Users/layton/Documents/G/Github/MyFirstASPSite/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/layton/.config/NuGet/NuGet.Config"
